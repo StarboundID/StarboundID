@@ -1,7 +1,5 @@
 # StarboundID - Secure & Universal Minecraft Authentication
 
-![StarboundID](https://your-banner-image-url.com)  
-
 ## 🚀 What is StarboundID?
 StarboundID is a **cross-server authentication and security system** designed for Minecraft servers. It replaces Xbox account authentication with a **universal login system**, making it easier for players to access multiple servers securely without re-entering credentials.
 
